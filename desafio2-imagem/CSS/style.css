@@ -1,7 +1,7 @@
 
-html{
-    background:linear-gradient(#fd92ed , #f34cda );
-
+body{
+    font-size:20px;
+    background-color: #967777;    
 }
 
 .conteudo{
@@ -9,9 +9,7 @@ html{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    color: #ffffff;
-    max-width: 100%;
-    width: 100%;
+    color: #000;
 }
 
 
