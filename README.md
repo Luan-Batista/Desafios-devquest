@@ -1,3 +1,3 @@
 # Desafios-devquest
-Lista de ingredientes saudáveis.
+Repositorio direcionado ao curso DevQuest. Curso voltado ao desenvolvimento front end.
 
